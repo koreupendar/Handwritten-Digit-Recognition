@@ -29,11 +29,11 @@
 
 
  🔧 Setup Of Instructions
-
+ 
 1. Clone the repository
    git clone https://github.com/koreupendar/Handwritten-Digit-Recognition.git
    cd Handwritten-Digit-Recognition
-   
+
 2.After cloning the repository
   python -m venv venv
   source venv/bin/activate  # or venv\Scripts\activate on Windows
