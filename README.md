@@ -33,11 +33,14 @@
 1. Clone the repository
    git clone https://github.com/koreupendar/Handwritten-Digit-Recognition.git
    cd Handwritten-Digit-Recognition
+   
 2.After cloning the repository
   python -m venv venv
   source venv/bin/activate  # or venv\Scripts\activate on Windows
+  
 3.Install dependencies
   pip install -r requirements.txt
+  
 4.Run the notebook or launch the app
   jupyter notebook or python app.py
 
